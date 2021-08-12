@@ -1,7 +1,9 @@
 # Programming-with-C
-C is a powerful general-purpose programming language. 
-It can be used to develop software like operating systems, databases, compilers, and so on. 
-C programming is an excellent language to learn to program for beginners.
-Here, our C project consist of various codes like
-How to add two integer's, how to multiply two floating point numbers,
-How to swap two numbers, how to find a length of a string and so on.
+In this project, we used the scanf() function to take input from the user, and printf() function to display output to the user.
+In order for this to work, we included the stdio.h header file using the #include <stdio.h> statement.
+We use '%d' format specifier to print int types,
+'%f' for float
+'%lf' for double
+'%c' for char.
+We also made use of the break statement which ends the loop immediately when it is encountered.
+However, the switch statement was used and it allows us to execute one code block among many alternatives.
